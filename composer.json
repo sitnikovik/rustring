@@ -1,0 +1,17 @@
+{
+    "name": "sitnikovik/russian-strings",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sitnikovik\\RussianStrings\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilya Sitnikov",
+            "email": "sitnikovik@gmail.com"
+        }
+    ],
+    "require": {}
+}
